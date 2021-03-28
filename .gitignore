@@ -2,3 +2,11 @@
 /node_modules
 /outline
 /solid
+.gradle
+/build
+/buildSrc/build
+/.direnv
+/jdk
+/.idea
+/src/main/kotlin/de/felixscheinost/heroicons/solid.kt
+/src/main/kotlin/de/felixscheinost/heroicons/outline.kt
