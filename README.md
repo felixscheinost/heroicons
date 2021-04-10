@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-  implementation("de.felixscheinost:heroicons-kotlinx-jvm:0.4.2")
+  implementation("de.felixscheinost:heroicons-kotlinx-jvm:1.0.0")
 }
 ```
 
