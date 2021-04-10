@@ -24,5 +24,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: cachix/install-nix-action@v13
+      - run: sudo apt-get install direnv
       - run: direnv allow .
       - run: direnv exec . gradle test
